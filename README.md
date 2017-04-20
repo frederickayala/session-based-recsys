@@ -1,2 +1,3 @@
-# session-based-recsys
-Tutorials on session-based recommender systems
+# Tutorials on session-based recommender systems
+
+- Qvik Session-Based Recommender Systems
